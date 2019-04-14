@@ -1,5 +1,5 @@
 # Roman Numerals Converter - Frontend
-For Code reviewers at Strata Health. This is the front-end for the Roman Numerals converter that makes requests to the `roman-numerals-converter.services` backend.
+For Code reviewers at Strata Health. This applciation lets the user see their input text converted to either Roman Numerals or a decimal number accordingly. This is the front-end for the Roman Numerals converter that makes requests to the `roman-numerals-converter.services` backend for any user input.
 
 ## Install
 Not interested in web servers? Just run the included `./dist/index.html` file and you should be good to go.
