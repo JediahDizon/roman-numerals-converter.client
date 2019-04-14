@@ -21,7 +21,7 @@ Still here? You can run the following commands in a command line terminal starti
 
 ## Screenshots and Videos
 #### Usage
-![Video](https://github.com/JediahDizon/roman-numerals-converter.client/blob/master/assets/Test%20Case.MOV "Use Case")
+[Video](https://github.com/JediahDizon/roman-numerals-converter.client/blob/master/assets/Test%20Case.MOV "Use Case")
 
 #### JUnit Test
 ![Screenshot](https://github.com/JediahDizon/roman-numerals-converter.client/blob/master/assets/Test%20Result.png "JUnit Test")
