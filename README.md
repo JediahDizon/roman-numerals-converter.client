@@ -16,10 +16,12 @@ Still here? You can run the following commands in a command line terminal starti
 
 - `npm run serve`
 	- This will serve the website and it can be accessed through `http://localhost/`
-	
+
 ## Notes
 - Validation and calculated values comes from the backend
 - Any changes to the input box is sent to the server to be calculated. Only happens every half a second of input inactivity.
+- We use React JS to display a basic Single Page Application alongside Webpack so we can export and share the front-end without needing Node JS
+- Use Chrome browser for maximum compatibility
 
 ## Screenshots and Videos
 #### Usage
