@@ -20,3 +20,8 @@ Still here? You can run the following commands in a command line terminal starti
 - Any changes to the input box is sent to the server to be calculated. Only happens every half a second of input inactivity.
 
 ## Screenshots and Videos
+#### Usage
+![Current Screenshot](https://github.com/JediahDizon/roman-numerals-converter.client/blob/master/assets/Test%20Case.MOV "Use Case")
+
+#### JUnit Test
+![Current Screenshot](https://github.com/JediahDizon/roman-numerals-converter.client/blob/master/assets/Test%20Result.png "JUnit Test")
