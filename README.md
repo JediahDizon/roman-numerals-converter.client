@@ -2,7 +2,7 @@
 For Code reviewers at Strata Health. This is the front-end for the Roman Numerals converter that makes requests to the `roman-numerals-converter.services` backend.
 
 ## Install
-Not interested in the front-end code? Just run the included `./dist/index.html` file and you should be good to go.
+Not interested in web servers? Just run the included `./dist/index.html` file and you should be good to go.
 
 Still here? You can run the following commands in a command line terminal starting from the root of the project:
 - `npm install`
